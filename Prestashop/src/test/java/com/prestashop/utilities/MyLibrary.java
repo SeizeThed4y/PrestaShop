@@ -345,12 +345,20 @@ public class MyLibrary {
     }
 
 
+    public void compareStrings(String str1 , String str2){
+        Assert.assertEquals(str1,str2);
+    }
+
+
     public static void doesContain(WebElement w1 , WebElement w2){
         String firstWebElementText = w1.getText();
         String secondWebElementText = w2.getText();
         Assert.assertTrue(firstWebElementText.contains(secondWebElementText));
     }
 
+    public void equalTwoStrings(String str1 , String str2){
+        Assert.assertEquals(str1,str2);
+    }
 
 
 }

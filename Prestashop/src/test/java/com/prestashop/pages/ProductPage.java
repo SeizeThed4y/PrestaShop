@@ -9,31 +9,35 @@ public class ProductPage extends TestBase {
 
 
     @FindBy(xpath = "//div[@class='pb-center-column col-xs-12 col-sm-4']//h1")
-   public  WebElement productNamePP;
+    public WebElement productNamePP;
 
     @FindBy(xpath = "//p[@class='our_price_display']//span")
-   public WebElement productPricePP;
+    public WebElement productPricePP;
 
 
     @FindBy(xpath = "//input[@id='quantity_wanted']")
     public WebElement quantityPP;
 
-    @FindBy(xpath = "//select[@id='group_1']")
+    @FindBy(id = "group_1")
     public WebElement sizeDropBox;
 
+    @FindBy(id = "add_to_cart")
+    public WebElement addCartPP;
 
 
-    public ProductPage(){
-        PageFactory.initElements(driver,this);
+    @FindBy(xpath = "//div[@class='layer_cart_product col-xs-12 col-md-6']//h2")
+    public WebElement actualMessageElement;
+
+
+
+
+
+
+
+    public ProductPage() {
+        PageFactory.initElements(driver, this);
 
     }
-
-
-
-
-
-
-
 
 
 }

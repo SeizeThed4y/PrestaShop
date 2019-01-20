@@ -23,19 +23,24 @@ public class TestCase02_PI_Details extends TestBase {
 
         myLibrary.openURL(ConfigurationReader.getPropery("url"));
         myLibrary.clickMethod(homePage.productElement);
-        myLibrary.compare("1", productPage.quantityPP);
-        myLibrary.compare("S", productPage.sizeDropBox);
 
-        List<String> sizeList = new ArrayList<>();
-        sizeList.add("S");
-        sizeList.add("M");
-        sizeList.add("L");
+         Select sizeBox = new Select(productPage.sizeDropBox);
 
-        Select dropbox = new Select(productPage.sizeDropBox);
+         String defaultSize = sizeBox.getFirstSelectedOption().getText();
 
-        List<WebElement> options = dropbox.getOptions();
+         myLibrary.compareStrings(defaultSize,"S");
 
-        Assert.assertTrue(options.contains(sizeList));
+
+        List<String> options = new ArrayList<>();
+
+        options.add("S");
+        options.add("M");
+        options.add("L");
+
+
+        for (int i = 0; i < options.size(); i++) {
+            Assert.assertEquals(sizeBox.getOptions().get(i).getText(), options.get(i));
+        }
 
 
 

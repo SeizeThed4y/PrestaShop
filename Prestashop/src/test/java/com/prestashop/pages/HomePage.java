@@ -18,6 +18,11 @@ public class HomePage extends TestBase {
     @FindBy(xpath = "(//a[@class='button ajax_add_to_cart_button btn btn-default'])[2]")
     public WebElement productAddToCart;
 
+    @FindBy(xpath = "(//div[@class='content_price'])[4]")
+    public WebElement homePagePriceElement;
+
+    @FindBy(xpath = "//div[@class='header_user_info']")
+    public WebElement singInElement;
 
 
 

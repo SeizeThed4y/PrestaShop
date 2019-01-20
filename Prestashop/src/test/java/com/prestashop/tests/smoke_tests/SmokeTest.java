@@ -1,8 +1,8 @@
 package com.prestashop.tests.smoke_tests;
 
-import com.prestashop.TestCases.TestCase01_PI_Price;
-import com.prestashop.TestCases.TestCase02_PI_Details;
-import com.prestashop.TestCases.TestCase03_PI_AddToCart;
+import com.prestashop.TestCases.Prestashop_1.TestCase01_PI_Price;
+import com.prestashop.TestCases.Prestashop_1.TestCase02_PI_Details;
+import com.prestashop.TestCases.Prestashop_1.TestCase03_PI_AddToCart;
 import com.prestashop.utilities.TestBase;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;

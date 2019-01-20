@@ -12,10 +12,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/utilities/TestBase.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/pages/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="61" column="29" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
+            <state relative-caret-position="360">
+              <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -23,14 +23,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/pages/HomePage.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/pages/SignInPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -45,10 +42,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/TestCases/TestCase01_PI_Price.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/TestCases/Prestashop_1/TestCase01_PI_Price.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="105">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,8 +56,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/pages/ProductPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="432">
+              <caret line="34" column="47" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,7 +65,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/SmokeTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
@@ -81,10 +78,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/TestCases/TestCase02_PI_Details.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/TestCases/Prestashop_1/TestCase02_PI_Details.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+            <state relative-caret-position="195">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,10 +90,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/TestCases/TestCase03_PI_AddToCart.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/TestCases/Prestashop_1/TestCase03_PI_AddToCart.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+            <state relative-caret-position="150">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/TestCases/Prestashop_1/TestCase04_LoginMyAccount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,20 +117,7 @@
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="211">
-              <caret line="300" column="76" lean-forward="true" selection-start-line="300" selection-start-column="49" selection-end-line="300" selection-end-column="76" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/utilities/Driver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-              <folding>
-                <element signature="e#388#389#0" expanded="true" />
-                <element signature="e#426#427#0" expanded="true" />
-              </folding>
+              <caret line="300" column="76" selection-start-line="300" selection-start-column="49" selection-end-line="300" selection-end-column="76" />
             </state>
           </provider>
         </entry>
@@ -160,10 +156,13 @@
         <option value="$PROJECT_DIR$/src/test/java/com/prestashop/TestCases/TestCase02_PI_Details.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/prestashop/utilities/MyLibrary.java" />
         <option value="$PROJECT_DIR$/configuration.properties" />
-        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/pages/ProductPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/SmokeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/pages/ProductPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/prestashop/TestCases/TestCase03_PI_AddToCart.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/TestCases/Prestashop_1/TestCase03_PI_AddToCart.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/TestCases/Prestashop_1/TestCase04_LoginMyAccount.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/prestashop/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/prestashop/pages/SignInPage.java" />
       </list>
     </option>
   </component>
@@ -174,7 +173,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="976" />
@@ -243,6 +242,16 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="TestCases" type="462c0819:PsiDirectoryNode" />
+              <item name="Prestashop_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="prestashop" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -264,6 +273,15 @@
               <item name="prestashop" type="462c0819:PsiDirectoryNode" />
               <item name="utilities" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -272,7 +290,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547946975744" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547959921746" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -408,21 +426,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SmokeTest_Test3 - 2019.01.19 at 20h 00m 06s.xml">
-      <configuration name="SmokeTest.Test3" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SmokeTest_Test3 - 2019.01.19 at 20h 00m 59s.xml">
-      <configuration name="SmokeTest.Test3" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SmokeTest_Test3 - 2019.01.19 at 20h 02m 04s.xml">
-      <configuration name="SmokeTest.Test3" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SmokeTest_Test3 - 2019.01.19 at 20h 05m 03s.xml">
-      <configuration name="SmokeTest.Test3" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SmokeTest_Test3 - 2019.01.19 at 20h 05m 39s.xml">
-      <configuration name="SmokeTest.Test3" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="SmokeTest_Test3 - 2019.01.19 at 20h 06m 12s.xml">
       <configuration name="SmokeTest.Test3" configurationId="TestNG" />
     </history-entry>
@@ -438,12 +441,27 @@
     <history-entry file="SmokeTest_Test3 - 2019.01.19 at 20h 09m 39s.xml">
       <configuration name="SmokeTest.Test3" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="SmokeTest_Test3 - 2019.01.19 at 23h 36m 04s.xml">
+      <configuration name="SmokeTest.Test3" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SmokeTest_Test3 - 2019.01.19 at 23h 37m 55s.xml">
+      <configuration name="SmokeTest.Test3" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SmokeTest_Test3 - 2019.01.19 at 23h 39m 08s.xml">
+      <configuration name="SmokeTest.Test3" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SmokeTest_Test3 - 2019.01.19 at 23h 43m 03s.xml">
+      <configuration name="SmokeTest.Test3" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SmokeTest_Test3 - 2019.01.19 at 23h 43m 57s.xml">
+      <configuration name="SmokeTest.Test3" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2912673" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33394384" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -452,12 +470,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.495116" weight="0.31683168" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.495116" weight="0.31632653" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2960396" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32959184" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.504884" side_tool="true" weight="0.30792078" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4993895" weight="0.32918552" />
@@ -573,17 +591,7 @@
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
-          <caret line="300" column="76" lean-forward="true" selection-start-line="300" selection-start-column="49" selection-end-line="300" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/pages/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="300" column="76" selection-start-line="300" selection-start-column="49" selection-end-line="300" selection-end-column="76" />
         </state>
       </provider>
     </entry>
@@ -594,46 +602,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/pages/ProductPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/TestCases/TestCase01_PI_Price.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/TestCases/TestCase02_PI_Details.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/TestCases/TestCase03_PI_AddToCart.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/tests/smoke_tests/SmokeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -641,6 +609,73 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/TestCases/Prestashop_1/TestCase01_PI_Price.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/TestCases/Prestashop_1/TestCase02_PI_Details.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/TestCases/Prestashop_1/TestCase03_PI_AddToCart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/TestCases/Prestashop_1/TestCase04_LoginMyAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/pages/ProductPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="34" column="47" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/prestashop/pages/SignInPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>

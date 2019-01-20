@@ -29,6 +29,14 @@ public class ProductPage extends TestBase {
     public WebElement actualMessageElement;
 
 
+    @FindBy(id = "layer_cart_product_quantity")
+    public WebElement quantityElement;
+
+    @FindBy(id = "layer_cart_product_attributes")
+    public WebElement sizeElement;
+
+
+
 
 
 

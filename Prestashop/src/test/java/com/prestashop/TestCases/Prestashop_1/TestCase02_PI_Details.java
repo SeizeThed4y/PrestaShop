@@ -1,4 +1,4 @@
-package com.prestashop.TestCases;
+package com.prestashop.TestCases.Prestashop_1;
 
 import com.prestashop.pages.HomePage;
 import com.prestashop.pages.ProductPage;
